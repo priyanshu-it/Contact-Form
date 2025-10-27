@@ -18,7 +18,7 @@ public class AdminLoginServlet extends HttpServlet {
         // Database connection details for login
         String url = "jdbc:mysql://localhost:3306/my_attendance";
         String dbUser = "root";
-        String dbPassword = "pa123";
+        String dbPassword = "1234";
 
         // Getting form data
         String username = request.getParameter("username");
