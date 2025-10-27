@@ -27,7 +27,7 @@ public class LoginServlet extends HttpServlet {
         ResultSet rs = null;
         String url = "jdbc:mysql://localhost:3306/my_attendance"; // Your MySQL database URL
         String user = "root"; // MySQL username
-        String password = "pa123"; // MySQL password
+        String password = "1234"; // MySQL password
 
         try {
             // Establishing database connection
