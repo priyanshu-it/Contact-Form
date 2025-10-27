@@ -117,7 +117,7 @@
         PreparedStatement pstmt = null;
         String url = "jdbc:mysql://localhost:3306/my_attendance";
         String user = "root";
-        String password = "pa123";
+        String password = "1234";
 
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
