@@ -21,7 +21,7 @@ public class AdminServlet extends HttpServlet {
 
         String url = "jdbc:mysql://localhost:3306/my_attendance";
         String dbUser = "root";
-        String dbPassword = "pa123";
+        String dbPassword = "1234";
 
         Connection con = null;
         Statement stmt = null;
