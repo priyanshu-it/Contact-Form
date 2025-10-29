@@ -96,17 +96,17 @@
         <form action="loginServlet" method="POST">
             <div class="form-group">
                 <label for="name">Name:</label>
-                <input type="text" id="name" name="name" placeholder="Enter a Full Name" required>
+                <input type="text" id="name" name="name" placeholder="Enter a Full Name" required >
             </div>
 
             <div class="form-group">
                 <label for="email">Contact:</label>
-                <input type="email" id="email" name="email" placeholder="Enter an Email ID" required>
+                <input type="email" id="email" name="email" placeholder="Enter an Email ID" required >
             </div>
 
             <div class="form-group">
                 <label for="attendance">Text Status:</label>
-                <textarea id="attendance" name="attendance" placeholder="Enter a Text (ONLY 1000 WORDS)" required></textarea>
+                <textarea id="attendance" name="attendance" placeholder="Enter a Text (ONLY 1000 WORDS)" required ></textarea>
             </div>
 
             <button type="submit">Register</button>
