@@ -1,5 +1,4 @@
-## A project incorporating "handwritten" elements in Java Server Pages (JSP) typically refers to a web application where the JSP code, including scripting elements and HTML, is written manually without relying heavily on visual builders or frameworks. 
-This approach emphasizes a deeper understanding of JSP syntax, Java integration, and web development fundamentals.
+## A project incorporating "handwritten" elements in Java Server Pages (JSP) typically refers to a web application where the JSP code, including scripting elements and HTML, is written manually without relying heavily on visual builders or frameworks. --> This approach emphasizes a deeper understanding of JSP syntax, Java integration, and web development fundamentals.
 ----
 ## Key aspects of a "handwritten" Java JSP project:
 ----
